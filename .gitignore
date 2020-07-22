@@ -1,0 +1,8 @@
+.envrc
+.bak
+bak/
+.tmp
+tmp/
+bin/
+.dist/
+dist/
